@@ -2,6 +2,8 @@ body {
   direction: rtl;
   margin-left: auto;
   margin-right: auto;
+  background-color: #007BFF; /* أزرق */
+  color: rgb(27, 60, 250);
 }
 header {
   text-align: center;
