@@ -3,7 +3,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   background-color: #007BFF; /* أزرق */
-  color: white;
+  color: rgb(90, 63, 245);
 }
 header {
   text-align: center;
